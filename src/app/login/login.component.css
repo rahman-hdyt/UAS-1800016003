@@ -1,0 +1,8 @@
+.spacer {
+    flex-grow: 1;
+  }
+  .container{
+    padding: 50px 100px 500px 100px;
+  }
+
+  
